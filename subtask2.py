@@ -11,7 +11,6 @@ stop): "))
  x.append(user_num)
  if n == 0:
  s = 0
-Page 9 of 9
  m = -1
  a = -1
  else:
