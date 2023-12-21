@@ -21,3 +21,5 @@ Page 9 of 9
  print("For the required  sequence " + str(x) + ", the count is " + str(n)
 + ", the sum is " + str(s) + ", the minimum is " + str(m) + " and
 the mean is " + str(a))
+# it looks like I learned how to use 
+#git today
